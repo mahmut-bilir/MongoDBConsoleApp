@@ -18,5 +18,5 @@ This project is a simple .NET 8 console application that connects to MongoDB, pe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/MongoDBConsoleApp.git
+git clone https://github.com/mahmut-bilir/MongoDBConsoleApp.git
 cd MongoDBConsoleApp
